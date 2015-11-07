@@ -1,0 +1,1 @@
+There are some lights connected to a server somewhere that can be changed by curling with some json. This script is to wrap curl so I can change the colors more easily.
